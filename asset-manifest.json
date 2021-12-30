@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/plantin_leding/static/css/main.af851a85.chunk.css",
+    "main.js": "/plantin_leding/static/js/main.eebb121d.chunk.js",
+    "main.js.map": "/plantin_leding/static/js/main.eebb121d.chunk.js.map",
+    "runtime-main.js": "/plantin_leding/static/js/runtime-main.606a3ec4.js",
+    "runtime-main.js.map": "/plantin_leding/static/js/runtime-main.606a3ec4.js.map",
+    "static/js/2.083367fb.chunk.js": "/plantin_leding/static/js/2.083367fb.chunk.js",
+    "static/js/2.083367fb.chunk.js.map": "/plantin_leding/static/js/2.083367fb.chunk.js.map",
+    "index.html": "/plantin_leding/index.html",
+    "static/css/main.af851a85.chunk.css.map": "/plantin_leding/static/css/main.af851a85.chunk.css.map",
+    "static/js/2.083367fb.chunk.js.LICENSE.txt": "/plantin_leding/static/js/2.083367fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.606a3ec4.js",
+    "static/js/2.083367fb.chunk.js",
+    "static/css/main.af851a85.chunk.css",
+    "static/js/main.eebb121d.chunk.js"
+  ]
+}
