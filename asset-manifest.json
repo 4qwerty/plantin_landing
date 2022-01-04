@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/plantin_landing/static/css/main.af851a85.chunk.css",
-    "main.js": "/plantin_landing/static/js/main.1d6499c5.chunk.js",
-    "main.js.map": "/plantin_landing/static/js/main.1d6499c5.chunk.js.map",
+    "main.js": "/plantin_landing/static/js/main.62680552.chunk.js",
+    "main.js.map": "/plantin_landing/static/js/main.62680552.chunk.js.map",
     "runtime-main.js": "/plantin_landing/static/js/runtime-main.22aaba02.js",
     "runtime-main.js.map": "/plantin_landing/static/js/runtime-main.22aaba02.js.map",
     "static/js/2.083367fb.chunk.js": "/plantin_landing/static/js/2.083367fb.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.22aaba02.js",
     "static/js/2.083367fb.chunk.js",
     "static/css/main.af851a85.chunk.css",
-    "static/js/main.1d6499c5.chunk.js"
+    "static/js/main.62680552.chunk.js"
   ]
 }
